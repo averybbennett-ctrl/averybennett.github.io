@@ -45,7 +45,7 @@ View or download my CV.
 
 ## Contact
 Feel free to get in touch or connect with me! 
-* Email: [avery.bennett@uwaterloo.ca](avery.bennett@uwaterloo.ca)
+* Email: [avery.bennett@uwaterloo.ca](mailto:avery.bennett@uwaterloo.ca)
 * Phone: (519)716-0081
-* Linkedin: [www.linkedin.com/in/avery-bennett-7489ab337](www.linkedin.com/in/avery-bennett-7489ab337)
+* LinkedIn: [https://www.linkedin.com/in/avery-bennett-7489ab337](https://www.linkedin.com/in/avery-bennett-7489ab337)
 
