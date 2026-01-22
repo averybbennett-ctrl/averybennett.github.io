@@ -1,5 +1,5 @@
 # Avery Bennett
-![University of Waterloo Logo](images/University_of_Waterloo_seal.png)
+![University of Waterloo Logo](images/uw.svg)
 
 ## Home
 
